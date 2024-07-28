@@ -1,0 +1,26 @@
+{
+    "Title": "Quiz App",
+    "data": [
+        {
+            "question": "Who are the people working on this app",
+            "choices": [
+                "Neville",
+                "Afi",
+                "Boris",
+                "No one"
+            ],
+            "answer": "Neville, Boris"
+        },
+        {
+            "question": "How long is building this app suppose to take?",
+            "choices": [
+                "1-week",
+                "1-month",
+                "3-weeks",
+                "At most 3-weeks"
+            ],
+            "answer": "At most 3-weeks"
+        }
+        
+    ]
+}        
