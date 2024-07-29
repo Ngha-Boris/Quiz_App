@@ -1,5 +1,12 @@
 import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from "react";
+import "./App.css";
+import { useSelector, useDispatch } from "react-redux";
+
+import End from "./components/End";
+import Question from "./components/Question";
+import Start from "./components/Start";
+import quizData from "./data/quiz.json";
 
 function App() {
   return (
